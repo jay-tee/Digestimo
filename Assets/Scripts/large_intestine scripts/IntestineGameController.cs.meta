@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbfd5b269b328324cb2ccabe46ad1f17
+timeCreated: 1429043209
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - Saliva: {fileID: 193298, guid: b8d4592532611cc49ab8bb8c81a15983, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

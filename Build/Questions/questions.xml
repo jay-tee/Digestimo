@@ -1,0 +1,127 @@
+<puzzleCollection>
+
+<puzzles>
+	<puzzle>
+	  <questionId>1</questionId>
+	   <question>How long is an adult’s small intestine: </question>
+	   <option1>22 feet</option1>
+	   <option2>30 inches</option2>
+	   <option3>30 miles</option3>
+	   <option4>17 feet</option4>
+	   <correctOption>1</correctOption>
+	</puzzle>
+	
+	
+	
+	<puzzle>
+	  <questionId>2</questionId>
+	   <question>All of the following are organs of the digestive system except the</question>
+	   <option1>spleen</option1>
+	   <option2>liver</option2>
+	   <option3>tongue</option3>
+	   <option4>esophagus</option4>
+	   <correctOption>3</correctOption>
+	</puzzle>
+	
+	
+	<puzzle>
+	  <questionId>3</questionId>
+	   <question>The digestive process starts in the:</question>
+	   <option1>Mouth</option1>
+	   <option2>stomach</option2>
+	   <option3>Esophagus</option3>
+	   <option4>liver</option4>
+	   <correctOption>1</correctOption>
+	</puzzle>
+	
+	
+	<puzzle>
+	  <questionId>4</questionId>
+	   <question>The large intestine measures about:</question>
+	   <option1>1 foot long</option1>
+	   <option2>10 feet long</option2>
+	   <option3>5 feet long</option3>
+	   <option4>100 feet long</option4>
+	   <correctOption>3</correctOption>
+	</puzzle>
+
+	<puzzle>
+	  <questionId>5</questionId>
+	   <question>What is the substance that makes the food we eat soft in our mouth?</question>
+	   <option1>Saliva or Spit</option1>
+	   <option2>Saliva</option2>
+	   <option3>Mucous</option3>
+	   <option4>spit</option4>
+	   <correctOption>2</correctOption>
+	</puzzle>
+	
+	
+	
+	<puzzle>
+	  <questionId>6</questionId>
+	   <question>All of the following are organs of the digestive system except the</question>
+	   <option1>spleen</option1>
+	   <option2>liver</option2>
+	   <option3>tongue</option3>
+	   <option4>esophagus</option4>
+	   <correctOption>3</correctOption>
+	</puzzle>
+	
+	
+	<puzzle>
+	  <questionId>7</questionId>
+	   <question>Your digestive system works on the foods you eat for about</question>
+	   <option1>5 hours</option1>
+	   <option2>10 hours</option2>
+	   <option3>15 hours</option3>
+	   <option4>20 hours</option4>
+	   <correctOption>4</correctOption>
+	</puzzle>
+
+	<puzzle>
+	  <questionId>8</questionId>
+	   <question>During the process of absorption, nutrients from food go from</question>
+	   <option1> the intestines into the bladder</option1>
+	   <option2> the blood into the organs</option2>
+	   <option3> the intestines into the bloodstream</option3>
+	   <option4> the mouth into the stomach</option4>
+	   <correctOption>3</correctOption>
+	</puzzle>
+
+	<puzzle>
+	  <questionId>9</questionId>
+	   <question>An adult’s alimentary canal is made up of the</question>
+	   <option1> pancreas, liver, and gallbladder</option1>
+	   <option2> esophagus, stomach, and intestines </option2>
+	   <option3> colon, rectum, and anus</option3>
+	   <option4> mouth, esophagus, and stomach</option4>
+	   <correctOption>4</correctOption>
+	</puzzle>
+
+
+	<puzzle>
+	  <questionId>10</questionId>
+	   <question> These move food through the digestive system:</question>
+	   <option1>enzymes</option1>
+	   <option2> mucous membranes</option2>
+	   <option3>smooth muscles</option3>
+	   <option4> digestive fluids</option4>
+	   <correctOption>3</correctOption>
+	</puzzle>
+
+
+
+	<puzzle>
+	  <questionId>11</questionId>
+	   <question>The pancreas, liver, and gallbladder help digestion in these ways, respectively:</question>
+	   <option1> making enzymes; making bile and processing nutrients; and storing bile</option1>
+	   <option2> producing saliva; digesting carbohydrates; and eliminating waste</option2>
+	   <option3> producing hormones; producing enzymes; and eliminating waste</option3>
+	   <option4> making acids; producing digestive juices; and storing enzymes</option4>
+	   <correctOption>1</correctOption>
+	</puzzle>
+
+	
+
+</puzzles>
+</puzzleCollection>
